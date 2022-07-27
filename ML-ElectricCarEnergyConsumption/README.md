@@ -1,6 +1,9 @@
-#### Projeto Formação Cientista de Dados da Data Science Academy ####
+#### Formação Cientista de Dados da Data Science Academy ####
 
-#### Projeto 1 - Machine Learning em Logística - Prevendo o Consumo de Energia de Carros Elétricos ####
+#### Big Data Analytics com R e Microsoft Azure Machine Learning Versão 3.0 ####
+
+
+#### Projeto 01 - Machine Learning em Logística - Prevendo o Consumo de Energia de Carros Elétricos ####
 
 
 #### Escopo do Projeto ####
