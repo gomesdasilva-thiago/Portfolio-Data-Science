@@ -1,4 +1,4 @@
-#### Projeto Formação Cientista de Dados da Data Science Acedemy ####
+#### Projeto Formação Cientista de Dados da Data Science Academy ####
 
 #### Projeto 1 - Machine Learning em Logística - Prevendo o Consumo de Energia de Carros Elétricos ####
 
