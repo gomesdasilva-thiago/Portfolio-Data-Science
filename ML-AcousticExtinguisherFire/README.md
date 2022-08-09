@@ -1,3 +1,9 @@
+Formação Cientista de Dados da Data Science Academy
+Big Data Analytics com R e Microsoft Azure Machine Learning Versão 3.0
+Projeto 01 - Machine Learning na Segurança do Trabalho Prevendo a Eficiência de Extintores de Incêndio
+
+Escopo do Projeto
+
 O teste hidrostático extintor é um procedimento estabelecido pelas normas da ABNT NBR 12962/2016, que determinam que todos os extintores devem ser testados a cada cinco anos, com a finalidade de identificar eventuais vazamentos, além de também verificar a resistência do material do extintor.
 Com isso, o teste hidrostático extintor pode ser realizado em baixa e alta pressão, de acordo com estas normas em questão. O procedimento é realizado por profissionais técnicos da área e com a utilização de aparelhos específicos e apropriados para o teste, visto que eles devem fornecer resultados com exatidão.
 Seria possível usar Machine Learning para prever o funcionamento de um extintor de incêndio com base em simulações feitas em computador e assim incluir uma camada adicional de segurança nas operações de uma empresa? Esse é o objetivo do Projeto com Feedback 2.
